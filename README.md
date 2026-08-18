@@ -12,7 +12,7 @@ See [Ping Identity's DevOps Page](https://devops.pingidentity.com) for additiona
 
 Add the Ping BX chart repo:
 
-```helm repo add ping-bx https://technical-enablement-pingidentity.github.io/BXHelm```
+```helm repo add ping-bx https://pingidentity.github.io/BXHelm```
 
 Download the chart locally:
 
@@ -24,4 +24,4 @@ Update the chart package. Be sure to increment the version in the Chart.yaml.
 
 Update the repo index after making any changes. 
 
-```helm repo index . --url https://technical-enablement-pingidentity.github.io/BXHelm/```
+```helm repo index . --url https://pingidentity.github.io/BXHelm/```

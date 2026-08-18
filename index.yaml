@@ -16,7 +16,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.2.1.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.7.6
@@ -33,7 +33,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.2.0.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.7.6
@@ -50,7 +50,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.9.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.7.6
@@ -67,7 +67,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.8.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.7.6
@@ -84,7 +84,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.7.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.7.6
@@ -101,7 +101,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.6.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.7.6
@@ -118,7 +118,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.5.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.7.6
@@ -135,7 +135,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.4.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.7.6
@@ -152,7 +152,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.3.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.7.6
@@ -169,7 +169,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.2.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.7.6
@@ -186,7 +186,7 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.1.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.7.6
@@ -203,6 +203,6 @@ entries:
     name: ping-bx
     type: application
     urls:
-    - https://technical-enablement-pingidentity.github.io/BXHelm/ping-bx-0.1.0.tgz
+    - https://pingidentity.github.io/BXHelm/ping-bx-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-02T21:31:21.841198-07:00"
